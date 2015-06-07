@@ -1,2 +1,0 @@
-# vitallink
-vital link advertiser
